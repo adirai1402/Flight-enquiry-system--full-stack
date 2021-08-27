@@ -1,4 +1,3 @@
-## Day 11 Assignment
 
 Create an application using the Microservices approach based on the given information:
 
@@ -8,4 +7,4 @@ b. PricingSystem maintains the price per kilometer information for flights. The 
 
 c. FlightBooking system is the customer facing application that is used by users to book flights. It interacts with the FlightInformationSystem and PricingSystem services to enable users to book flights. It records the booking details and displays the ticket information to the user.
 
-Ensure all the Microservices that you create follow the layered approach and handle exceptions appropriately.
+
